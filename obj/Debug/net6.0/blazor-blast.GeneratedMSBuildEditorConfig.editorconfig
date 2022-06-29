@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = blazor_blast
 build_property.RootNamespace = blazor_blast
-build_property.ProjectDir = c:\Users\denve\blazor-blast\
+build_property.ProjectDir = C:\Users\denve\blazor-blast\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\denve\blazor-blast
+build_property.MSBuildProjectDirectory = C:\Users\denve\blazor-blast
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/denve/blazor-blast/App.razor]
+[C:/Users/denve/blazor-blast/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/denve/blazor-blast/Pages/Index.razor]
+[C:/Users/denve/blazor-blast/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/denve/blazor-blast/_Imports.razor]
+[C:/Users/denve/blazor-blast/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/denve/blazor-blast/Shared/MainLayout.razor]
+[C:/Users/denve/blazor-blast/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-yhgauy6o8s
 
-[c:/Users/denve/blazor-blast/Pages/Error.cshtml]
+[C:/Users/denve/blazor-blast/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/denve/blazor-blast/Pages/_Host.cshtml]
+[C:/Users/denve/blazor-blast/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/denve/blazor-blast/Pages/_Layout.cshtml]
+[C:/Users/denve/blazor-blast/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
