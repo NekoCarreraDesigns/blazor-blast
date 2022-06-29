@@ -1,7 +1,15 @@
 ﻿@page "/"
+@inject HttpClient HttpClient
 
 <h1>Pizza Princess</h1>
 
 @code {
+    List<PizzaSpecial> specials;
 
+    protected override async Task OnInitializedAsync()
+    {
+        specials = await HttpClient.GetFromJsonAsync<list<PizzaSpecials>>("specials",
+        BlazorBlast.OrderContext.Default.ListPizzaSpecial);
+
+    }
 }
